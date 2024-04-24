@@ -83,7 +83,7 @@ Contributions are welcome! Please follow these steps:
 
 ## Deployment/Walkthrough
 
-- **Heroku:** [Link to deployed App]()
+- **Heroku:** [Link to deployed App](https://fierce-fortress-52072-aabcea5a43a3.herokuapp.com/)
 - **Walkthrough video:** [Link to Walkthrough video]()
 
 ## License
